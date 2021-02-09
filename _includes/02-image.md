@@ -1,1 +1,1 @@
-! [Image of hulacat] (https://octodex.github.com/hulatocat/)
+![Image of hulacat](https://octodex.github.com/hulatocat/)
