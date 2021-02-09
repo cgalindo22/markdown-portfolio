@@ -3,4 +3,6 @@ _Also ITALICS_
 __BOLD__
 **ALSO bold**
 
-#**Bold Header?**
+#header
+# **BOLD Header?**
+__*bld and italic*__
