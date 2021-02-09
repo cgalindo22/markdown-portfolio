@@ -15,7 +15,7 @@
 3. 3 things
   1. 3 things a
   2. 3b
-  
+  ## ordered w/ unordered
 1. ONe
 2. TWO
   - non ordered 1b
